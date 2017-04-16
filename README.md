@@ -21,6 +21,6 @@ To use this, you must do the following steps:
 
 5. Add this to your crontab (if you don't have cron, install it) as:
 
-  `37 13 * * * /path/to/python3 /path/to/1337.py`
+  `37 13 * * * /path/to/1337.py`
 
 6. Happy 1337 h4x0ring!
