@@ -20,7 +20,7 @@ while success == False:
 	urllib.request.urlretrieve(gif.media_url, 'temp_gif.gif')
 
 	try:
-		api.update_with_media('temp_gif.gif', """It's 1337 o'clock!""")
+		api.update_with_media('temp_gif.gif', """It's leet o'clock!""")
 	except tweepy.TweepError:
 		pass
 	else:
