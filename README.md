@@ -3,7 +3,7 @@ Twitter-celebrate leet o'clock every day with a random gif!
 
 To use this, you must do the following steps:
 
-1. pip3 install tweepy and giphypop (make sure you're using python3!)
+1. pip3 install tweepy and safygiphy (make sure you're using python3!)
 
 2. Go to https://apps.twitter.com, from here, make a new app.
 
