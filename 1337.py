@@ -1,7 +1,7 @@
 #!/usr/bin/python3
 import tweepy, safygiphy, urllib, os
 
-keysfile = open('keys.txt', 'r')
+keysfile = open('keys', 'r')
 keys = keysfile.readlines()
 CONSUMER_KEY = keys[0].rstrip()
 CONSUMER_SECRET = keys[1].rstrip()
